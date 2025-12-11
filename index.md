@@ -50,7 +50,7 @@ Each contains original files, enhanced files, and a narrative discussing the enh
 
 A complete video code review covering the original artifacts, improvement areas, and enhancement plans is available at the link below:
 
-https://youtu.be/9itrgytdLWM
+[Watch the Code Review Video](https://youtu.be/9itrgytdLWM)
 
 ---
 

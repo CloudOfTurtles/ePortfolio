@@ -35,13 +35,13 @@ Below are the enhanced artifacts included in this portfolio.
 Each contains original files, enhanced files, and a narrative discussing the enhancement process.
 
 ## 1. DriverPass System (Software Engineering & Design)  
-[View Artifact](./driverpass/)
+[View Artifact](driverpass/)
 
 ## 2. Pirate Maze AI (Algorithms & Data Structures)  
-[View Artifact](./pirate-maze-ai/)
+[View Artifact](pirate-maze-ai/)
 
 ## 3. Travlr Getaways (Databases & Full-Stack Development)  
-[View Artifact](./travlr-getaways/)
+[View Artifact](travlr-getaways/)
 
 ---
 

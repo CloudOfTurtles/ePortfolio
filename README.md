@@ -4,7 +4,7 @@ This repository contains my final ePortfolio for the CS-499 Computer Science Cap
 
 The live portfolio website is hosted through GitHub Pages:
 
-https://github.com/CloudOfTurtles/ePortfolio/tree/main
+https://cloudofturtles.github.io/ePortfolio/
 
 ---
 
@@ -25,7 +25,7 @@ A full video code review was completed as part of the capstone requirements.
 It explains the original artifacts, identifies areas for improvement, and outlines the enhancements made for CS-499.
 
 Link to the code review video:  
-(https://youtu.be/9itrgytdLWM)
+https://youtu.be/9itrgytdLWM
 
 ---
 
@@ -33,7 +33,7 @@ Link to the code review video:
 
 The complete professional self-assessment, which introduces the ePortfolio and summarizes my strengths and growth throughout the program, is available on the GitHub Pages site.
 
-https://github.com/CloudOfTurtles/ePortfolio/tree/main
+https://cloudofturtles.github.io/ePortfolio/
 
 ---
 
